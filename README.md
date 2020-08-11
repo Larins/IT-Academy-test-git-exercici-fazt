@@ -1,2 +1,2 @@
 # git-exercici
-Exercici Git Cibernarium
+Exercici Git Cibernarium segons tutorial Fazt
